@@ -480,6 +480,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 203052700}
+  cubeSpeed: 30
   myTimer: {fileID: 1245900026}
   myTimerUI: {fileID: 1245900028}
 --- !u!1 &406061237

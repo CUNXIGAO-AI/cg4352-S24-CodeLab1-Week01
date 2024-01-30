@@ -7,7 +7,7 @@ public class Controller : MonoBehaviour
 {
     public Rigidbody rb;
 
-    private float cubeSpeed = 3;
+    public float cubeSpeed = 20;
     
     private float timer;
 
